@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/projectStarPrinter.iml" filepath="$PROJECT_DIR$/.idea/modules/projectStarPrinter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/projectStarPrinter.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/projectStarPrinter.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1674462727/projectStarPrinter.react-native-picker_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1674462727/projectStarPrinter.react-native-picker_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-398572282/projectStarPrinter.react-native-star-io10.iml" filepath="$PROJECT_DIR$/.idea/modules/-398572282/projectStarPrinter.react-native-star-io10.iml" />
+    </modules>
+  </component>
+</project>

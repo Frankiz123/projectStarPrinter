@@ -1,0 +1,14 @@
+com/projectstarprinter/ReactNativeFlipper.java
+ com.projectstarprinter.ReactNativeFlipper
+ com.projectstarprinter.ReactNativeFlipper$1
+ com.projectstarprinter.ReactNativeFlipper$2
+ com.projectstarprinter.ReactNativeFlipper$2$1
+com/projectstarprinter/MainApplication.java
+ com.projectstarprinter.MainApplication
+ com.projectstarprinter.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/projectstarprinter/BuildConfig.java
+ com.projectstarprinter.BuildConfig
+com/projectstarprinter/MainActivity.java
+ com.projectstarprinter.MainActivity
